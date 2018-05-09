@@ -1,0 +1,20 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "New Bash Profile",
+  "main": "init.sh",
+  "scripts": {
+    "start": "./init.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinrunes/new-bash-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinrunes/new-bash-profile/issues"
+  },
+  "homepage": "https://github.com/justinrunes/new-bash-profile#readme",
+  "dependencies": {}
+}
